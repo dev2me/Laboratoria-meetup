@@ -34,15 +34,16 @@
 // });
 
 
-// createElement()
+// createElement() Recibe como parametro un string con el nombre del nodo(elemento)
 
-// appendChild()
+// appendChild() Recibe un parámetro y es el contexto donde se colocará el nodo creado
 
-// removeChild()
+// removeChild() Recibe como parámetro el nodo hijo a ser removido
 
-// parentNode()
+// parentNode() Obtiene el nodo padre de un nodo hijo
 
-// replaceChild()
+// replaceChild() Recibe dos parámetros: El primero es el nodo nuevo y el segundo es el nodo que será remplazado
+
 
 // Node List
 
